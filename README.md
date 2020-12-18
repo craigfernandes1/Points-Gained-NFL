@@ -24,4 +24,4 @@ apply outside of sports.
 
 Paper Information:
 
-T. C. Y. Chan, C. Fernandes, M. L. Puterman, "Points gained in football: Using Markov process-based value functions to assess team performance," Operations Research. Forthcoming.
+T. C. Y. Chan, C. Fernandes, M. L. Puterman, "Points gained in football: Using Markov process-based value functions to assess team performance," *Operations Research*. Forthcoming.
