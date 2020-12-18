@@ -18,7 +18,7 @@ our "points gained" performance assessment metric, which quanties the value crea
 play relative to expected performance. We show how this metric provides new insight into factors that
 distinguish performance. For example, passing plays generate the most points gained, while running plays
 tend to generate negative value. Short passes account for the majority of the top teams' success and the
-worst teams' poor performance. Other insights include how teams differ by down, quarter, and eld position.
+worst teams' poor performance. Other insights include how teams differ by down, quarter, and field position.
 The paper concludes with a case study of the 2019 Super Bowl and suggests how the key concepts might
 apply outside of sports.
 
