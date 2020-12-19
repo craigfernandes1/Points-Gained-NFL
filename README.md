@@ -12,3 +12,5 @@ T. C. Y. Chan, C. Fernandes, M. L. Puterman, "Points gained in football: Using M
 •	Sport Innovation Summit, Toronto 2019 (Oral & Poster)
 
 •	Canadian Operations Research Society Annual Conference, Halifax 2018 (Oral) | Won 2nd place in the undergraduate research paper competition ($200)  
+
+![picture](SPIN_2019_Poster_Points_Gained.png)
