@@ -8,7 +8,10 @@ T. C. Y. Chan, C. Fernandes, M. L. Puterman, "Points gained in football: Using M
 Conference Presentations:
 
 •	U of T Engineering Research Conference, Virtual 2020 (Poster)
+  • Won 2nd place in the U of T Engineering Research Conference, 2020 - ($300)     
 
 •	Sport Innovation Summit, Toronto 2019 (Oral & Poster)
 
 •	Canadian Operational Research Society Conference, Halifax 2018 (Oral)
+  • Won 2nd place in the undergraduate research paper competition, 2018 - ($200)  
+
