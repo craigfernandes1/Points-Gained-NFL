@@ -11,4 +11,4 @@ Conference Presentations:
 
 •	Sport Innovation Summit, Toronto 2019 (Oral & Poster)
 
-•	Canadian Operational Research Society Conference, Halifax 2018 (Oral) | Won 2nd place in the undergraduate research paper competition ($200)  
+•	Canadian Operations Research Society Annual Conference, Halifax 2018 (Oral) | Won 2nd place in the undergraduate research paper competition ($200)  
