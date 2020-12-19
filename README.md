@@ -8,5 +8,7 @@ T. C. Y. Chan, C. Fernandes, M. L. Puterman, "Points gained in football: Using M
 Conference Presentations:
 
 •	U of T Engineering Research Conference, Virtual 2020 (Poster)
+
 •	Sport Innovation Summit, Toronto 2019 (Oral & Poster)
+
 •	Canadian Operational Research Society Conference, Halifax 2018 (Oral)
